@@ -1,7 +1,7 @@
 ---
 title: Contando Sudokus
 author: castarco
-layout: post
+layout: page
 permalink: /?p=110
 categories:
   - Matemática

@@ -1,7 +1,7 @@
 ---
 title: XXII Escuela Venezolana de Matemáticas
 author: Alejandro Alvarez
-layout: post
+layout: page
 permalink: /?p=115
 categories:
   - Matemática

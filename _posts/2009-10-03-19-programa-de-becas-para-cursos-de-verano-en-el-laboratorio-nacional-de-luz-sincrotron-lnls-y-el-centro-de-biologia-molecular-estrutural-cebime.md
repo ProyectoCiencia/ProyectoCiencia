@@ -1,7 +1,7 @@
 ---
 title: 19 Programa de Becas para Cursos de Verano en el Laboratório Nacional de Luz Síncrotron (LNLS) y el Centro de Biologia Molecular Estrutural (CeBiME)
 author: Alejandro Alvarez
-layout: post
+layout: page
 permalink: /?p=146
 categories:
   - Biología

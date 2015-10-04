@@ -1,7 +1,7 @@
 ---
 title: FLISOL 2009 Maracaibo
 author: Alejandro Alvarez
-layout: post
+layout: page
 permalink: /?p=34
 categories:
   - Computación

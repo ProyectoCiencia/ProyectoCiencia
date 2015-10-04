@@ -1,7 +1,7 @@
 ---
 title: Revistas científicas de Acceso Abierto
 author: Alejandro Alvarez
-layout: post
+layout: page
 permalink: /?p=28
 categories:
   - Biología

@@ -1,7 +1,7 @@
 ---
 title: Logo de Proyecto Ciencia
 author: muammar
-layout: post
+layout: page
 permalink: /?p=200
 jd_tweet_this:
   - yes

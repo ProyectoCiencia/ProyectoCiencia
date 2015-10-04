@@ -1,7 +1,7 @@
 ---
 title: Grupo de Usuarios Python en Proyecto Ciencia
 author: muammar
-layout: post
+layout: page
 permalink: /?p=175
 categories:
   - Noticias

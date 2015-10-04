@@ -1,7 +1,7 @@
 ---
 title: ¿Como ser un matemático puro?
 author: Alejandro Alvarez
-layout: post
+layout: page
 permalink: /?p=89
 categories:
   - Matemática

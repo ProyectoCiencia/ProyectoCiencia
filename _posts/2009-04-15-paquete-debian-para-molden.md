@@ -2,7 +2,7 @@
 title: Paquete Debian para Molden
 author: muammar
 excerpt: ' '
-layout: post
+layout: page
 permalink: /?p=67
 categories:
   - Computación

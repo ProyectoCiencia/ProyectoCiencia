@@ -1,7 +1,7 @@
 ---
 title: Nueva imagen y lista de correo pública
 author: muammar
-layout: post
+layout: page
 permalink: /?p=253
 categories:
   - Noticias

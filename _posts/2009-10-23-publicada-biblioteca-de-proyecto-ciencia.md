@@ -1,7 +1,7 @@
 ---
 title: Publicada Biblioteca de Proyecto Ciencia
 author: muammar
-layout: post
+layout: page
 permalink: /?p=156
 categories:
   - Noticias

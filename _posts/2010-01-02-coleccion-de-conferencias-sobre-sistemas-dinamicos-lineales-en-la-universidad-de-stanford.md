@@ -1,7 +1,7 @@
 ---
 title: Colección de Conferencias sobre Sistemas Dinámicos Lineales en la Universidad de Stanford
 author: Alejandro Alvarez
-layout: post
+layout: page
 permalink: /?p=206
 wp_jd_bitly:
   - http://bit.ly/7vAlSI
