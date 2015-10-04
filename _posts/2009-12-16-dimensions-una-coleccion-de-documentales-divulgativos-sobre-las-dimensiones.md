@@ -2,7 +2,6 @@
 title: 'Dimensions, una colección de documentales divulgativos sobre las dimensiones &#8230;'
 author: Alejandro Alvarez
 layout: page
-permalink: /?p=204
 jd_tweet_this:
   - yes
 wp_jd_bitly:

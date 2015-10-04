@@ -2,7 +2,6 @@
 title: Proyecto Ciencia publica el primer número de su revista
 author: muammar
 layout: page
-permalink: /?p=270
 categories:
   - Noticias
 ---

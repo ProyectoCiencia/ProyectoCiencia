@@ -2,7 +2,6 @@
 title: VIII Congreso Venezolano de Ecología
 author: Alejandro Alvarez
 layout: page
-permalink: /?p=153
 categories:
   - Biología
   - General

@@ -2,7 +2,6 @@
 title: Proyecto Ciencia en twitter
 author: muammar
 layout: page
-permalink: /?p=196
 jd_tweet_this:
   - yes
 wp_jd_target:

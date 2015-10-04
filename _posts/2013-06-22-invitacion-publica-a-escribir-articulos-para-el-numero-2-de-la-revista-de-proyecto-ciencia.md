@@ -2,7 +2,6 @@
 title: Invitación pública a escribir artículos para el número 2 de la Revista de Proyecto Ciencia
 author: muammar
 layout: page
-permalink: /?p=275
 categories:
   - Noticias
 ---

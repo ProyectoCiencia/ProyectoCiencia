@@ -2,7 +2,6 @@
 title: X Congreso Internacional de Métodos Numéricos en Ingeniería y Ciencias Aplicadas (CIMENICS).
 author: Alejandro Alvarez
 layout: page
-permalink: /?p=133
 categories:
   - General
   - Matemática

@@ -2,7 +2,6 @@
 title: Revista de Ciencia
 author: muammar
 layout: page
-permalink: /?p=46
 categories:
   - General
 ---

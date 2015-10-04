@@ -2,7 +2,6 @@
 title: Curso de Python On-Line
 author: Alejandro Alvarez
 layout: page
-permalink: /?p=81
 categories:
   - Computación
   - General

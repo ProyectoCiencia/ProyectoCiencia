@@ -2,7 +2,6 @@
 title: Python Bytecode Disassembler ( dis )
 author: castarco
 layout: page
-permalink: /?p=129
 categories:
   - Computación
 tags:

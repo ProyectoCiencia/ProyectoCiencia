@@ -2,7 +2,6 @@
 title: 'Matplotlib: Tutorial de Pyplot &#8211; Parte I'
 author: Alejandro Alvarez
 layout: page
-permalink: /?p=126
 categories:
   - Computación
   - Matemática

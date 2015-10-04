@@ -2,7 +2,6 @@
 title: Escuela de Campos, Partículas y Astrofísica 2009
 author: Alejandro Alvarez
 layout: page
-permalink: /?p=144
 categories:
   - Física
   - General

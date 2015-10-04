@@ -2,7 +2,6 @@
 title: Posibles fallas de los servicios brindados por Proyecto Ciencia
 author: muammar
 layout: page
-permalink: /?p=217
 jd_tweet_this:
   - yes
 wp_jd_target:

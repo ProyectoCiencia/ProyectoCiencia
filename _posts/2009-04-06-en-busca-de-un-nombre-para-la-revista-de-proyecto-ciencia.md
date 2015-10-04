@@ -2,7 +2,6 @@
 title: En busca de un nombre para la revista de Proyecto Ciencia
 author: muammar
 layout: page
-permalink: /?p=177
 categories:
   - Noticias
 ---

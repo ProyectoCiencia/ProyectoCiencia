@@ -2,7 +2,6 @@
 title: 'XI CLAPEM &#8211; Congreso Latinoamericano de Probabilidad y Estadística Matemática'
 author: Alejandro Alvarez
 layout: page
-permalink: /?p=141
 categories:
   - General
   - Matemática

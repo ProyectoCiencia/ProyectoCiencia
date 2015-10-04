@@ -2,7 +2,6 @@
 title: Curso Introductorio de LaTeX
 author: muammar
 layout: page
-permalink: /?p=160
 categories:
   - Noticias
 ---
