@@ -6,12 +6,12 @@
 #
 layout: frontpage
 header:
-  image_fullwidth: header_unsplash_12.jpg
+  image_fullwidth: bannerpc.png
 widget1:
-  title: "Blog & Portfolio"
-  url: 'http://phlow.github.io/feeling-responsive/blog/'
+  title: "Revista"
+  url: '/revista/'
   image: unsplash_9-302x182.jpg
-  text: 'Every good portfolio website has a blog with fresh news, thoughts and develop&shy;ments of your activities. <em>Feeling Responsive</em> offers you a fully functional blog with an archive page to give readers a quick overview of all your posts.'
+  text: 'La Revista del Proyecto Ciencia es una publicación internacional trimestral, online, de libre acceso y arbitrada orientada a la publicación de artículos cientíﬁco-técnicos principalmente divulgativos. Los artículos son publicados bajo la licencia Creative Commons Attribution license por defecto, a menos que los autores indiquen lo contrario en cuyo caso deben escoger e indicar alguna otra licencia para la publicación de sus contenidos.'
 widget2:
   title: "Why use this theme?"
   url: 'http://phlow.github.io/feeling-responsive/info/'
