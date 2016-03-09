@@ -1,7 +1,7 @@
 ---
 title: VI Encuentro Colombia Venezuela de Estadística
 author: Alejandro Alvarez
-layout: page
+layout: post
 categories:
   - General
   - Matemática

@@ -1,7 +1,7 @@
 ---
 title: Seminario On-Line de Matlab en Español
 author: Alejandro Alvarez
-layout: page
+layout: post
 categories:
   - Matemática
 tags:

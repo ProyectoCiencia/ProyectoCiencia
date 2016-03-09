@@ -1,7 +1,7 @@
 ---
 title: Cómo hacer jaulas chroot y montarlas al momento de iniciar el sistema automáticamente en Debian
 author: muammar
-layout: page
+layout: post
 categories:
   - Computación
   - General

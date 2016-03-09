@@ -1,7 +1,7 @@
 ---
 title: Errores comunes en Gaussian
 author: muammar
-layout: page
+layout: post
 categories:
   - Computación
   - Química

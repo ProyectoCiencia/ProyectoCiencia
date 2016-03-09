@@ -1,7 +1,7 @@
 ---
 title: Un ejemplo sencillo de Gnuplot con Python
 author: Alejandro Alvarez
-layout: page
+layout: post
 categories:
   - General
 tags:

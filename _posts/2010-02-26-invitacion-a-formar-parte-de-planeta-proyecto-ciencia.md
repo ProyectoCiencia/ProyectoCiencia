@@ -1,7 +1,7 @@
 ---
 title: Invitación para formar parte de Planeta Proyecto Ciencia
 author: muammar
-layout: page
+layout: post
 jd_tweet_this:
   - yes
 wp_jd_target:

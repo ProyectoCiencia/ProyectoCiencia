@@ -1,7 +1,7 @@
 ---
 title: Intercambia tus libros usados por libros que necesites en TextBookRevolt.com
 author: Alejandro Alvarez
-layout: page
+layout: post
 categories:
   - General
 tags:

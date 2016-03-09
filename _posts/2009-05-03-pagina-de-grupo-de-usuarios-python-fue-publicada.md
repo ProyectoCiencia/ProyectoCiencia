@@ -1,7 +1,7 @@
 ---
 title: Página de Grupo de Usuarios Python fue publicada
 author: muammar
-layout: page
+layout: post
 categories:
   - Noticias
 ---

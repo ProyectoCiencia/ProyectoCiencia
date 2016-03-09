@@ -1,7 +1,7 @@
 ---
 title: LIX CONVENCIÓN ANUAL DE AsoVAC – 2009
 author: Alejandro Alvarez
-layout: page
+layout: post
 categories:
   - Biología
   - Computación

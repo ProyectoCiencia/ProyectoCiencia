@@ -1,7 +1,7 @@
 ---
 title: Curso de LaTeX Básico
 author: gherrera
-layout: page
+layout: post
 categories:
   - Computación
   - General

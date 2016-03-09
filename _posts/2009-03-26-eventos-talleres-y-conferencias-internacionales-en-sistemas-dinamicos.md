@@ -1,7 +1,7 @@
 ---
 title: Eventos, Talleres y Conferencias Internacionales en Sistemas Dinámicos
 author: Alejandro Alvarez
-layout: page
+layout: post
 categories:
   - Matemática
 tags:

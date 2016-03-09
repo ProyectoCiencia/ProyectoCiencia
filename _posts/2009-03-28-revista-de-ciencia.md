@@ -1,7 +1,7 @@
 ---
 title: Revista de Ciencia
 author: muammar
-layout: page
+layout: post
 categories:
   - General
 ---

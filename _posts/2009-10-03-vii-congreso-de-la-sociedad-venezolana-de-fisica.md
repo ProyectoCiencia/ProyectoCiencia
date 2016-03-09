@@ -1,7 +1,7 @@
 ---
 title: VII Congreso de la Sociedad Venezolana de Física
 author: Alejandro Alvarez
-layout: page
+layout: post
 categories:
   - Física
   - General

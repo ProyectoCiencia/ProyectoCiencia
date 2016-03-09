@@ -1,7 +1,7 @@
 ---
 title: Instalacion de LaTeX y Kile en Ubuntu
 author: Alejandro Alvarez
-layout: page
+layout: post
 categories:
   - Computación
   - Matemática

@@ -1,7 +1,7 @@
 ---
 title: DevCamp Venezuela 2010
 author: Alejandro Alvarez
-layout: page
+layout: post
 jd_tweet_this:
   - yes
 wp_jd_target:

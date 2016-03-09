@@ -1,7 +1,7 @@
 ---
 title: 'HSTOOL: Un Toolbox en Matlab para encontrar herraduras en mapas bidimensionales'
 author: Alejandro Alvarez
-layout: page
+layout: post
 categories:
   - Computación
   - General

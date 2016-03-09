@@ -1,7 +1,7 @@
 ---
 title: Cumpleaños de ProyectoCiencia.org
 author: Alejandro Alvarez
-layout: page
+layout: post
 categories:
   - General
 tags:

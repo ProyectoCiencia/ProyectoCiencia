@@ -1,7 +1,7 @@
 ---
 title: '2009: Año Internacional de la Astronomía.'
 author: Juan Jorbe
-layout: page
+layout: post
 categories:
   - Física
 ---

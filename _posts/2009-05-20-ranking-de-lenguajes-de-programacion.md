@@ -1,7 +1,7 @@
 ---
 title: Ranking de Lenguajes de Programación
 author: Alejandro Alvarez
-layout: page
+layout: post
 categories:
   - Computación
 tags:

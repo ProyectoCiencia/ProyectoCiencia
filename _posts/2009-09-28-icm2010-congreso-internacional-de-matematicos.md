@@ -1,7 +1,7 @@
 ---
 title: 'ICM2010 &#8211; Congreso Internacional de Matemáticos'
 author: Alejandro Alvarez
-layout: page
+layout: post
 categories:
   - General
   - Matemática

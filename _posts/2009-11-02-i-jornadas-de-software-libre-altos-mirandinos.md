@@ -1,7 +1,7 @@
 ---
 title: I Jornadas de Software Libre Altos Mirandinos
 author: Alejandro Alvarez
-layout: page
+layout: post
 categories:
   - Computación
 tags:
