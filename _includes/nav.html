@@ -5,7 +5,7 @@
 			{% assign current = page.url | downcase | split: '/' %}
 			<li {% if current[1] == 'index.html' %}class='current'{% endif %}><a href="/index.html">Inicio</a></li>
 			<li {% if current[1] == 'blog' %}class='current'{% endif %}><a href="/blog">Blog</a></li>
-			<li {% if current[1] == 'left-sidebar.html' %}class='current'{% endif %}><a href="/left-sidebar.html">Revista</a></li>
+			<li {% if current[1] == 'left-sidebar.html' %}class='current'{% endif %}><a href="/revista">Revista</a></li>
 			<li {% if current[1] == 'right-sidebar.html' %}class='current'{% endif %}><a href="/right-sidebar.html">FAQ</a></li>
 			<li {% if current[1] == 'no-sidebar.html' %}class='current'{% endif %}><a href="/no-sidebar.html">Contacto</a></li>
 		</ul>
