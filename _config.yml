@@ -2,3 +2,6 @@ name: Proyecto Ciencia
 description: Linear template for Jekyll
 gems: [jekyll-paginate]
 paginate: 10
+
+permalink: /blog/:year/:month/:day/:title/
+
