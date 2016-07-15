@@ -1019,10 +1019,22 @@
 			color: rgba(255,255,255,.6);
 		}
 
-    .float-left {
-        float: left;
-    }
 
-    .float-right {
-        float: right;
-    }
+/*
+ ppc = proyectociencia
+*/
+.float-left {
+    float: left;
+}
+
+.float-right {
+    float: right;
+}
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.ppcbuscar {
+   text-align: justify;
+}
