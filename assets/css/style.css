@@ -1018,3 +1018,11 @@
 			font-weight: 300;
 			color: rgba(255,255,255,.6);
 		}
+
+    .float-left {
+        float: left;
+    }
+
+    .float-right {
+        float: right;
+    }

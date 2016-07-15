@@ -11,9 +11,15 @@ layout: default
                                     -->
 					<header>
 						<h2>{{ page.title }}</h2>
+            {{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</br>{% include read_time.html %}
+            <br>
+            {% if page.previous %}
+            <a href="{{ page.previous.url }}" class="float-left">&larr; Prévio</a> {% endif %}
+            {% if page.next %}
+            <a href="{{ page.next.url }}" class="float-right">Siguiente&rarr;</a> {% endif %}
+            </br>
 					</header>
 					{{ page.content }}
-
                                         <br>
 
 <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
