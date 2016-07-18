@@ -10,8 +10,10 @@ layout: default
 					<a href="{{ site.prefix }}{{ page.url }}" class="image full"><img src="/assets/{{ page.featured }}" alt=""></a>
                                     -->
 					<header>
+                                            <center>
 						<h2>{{ page.title }}</h2>
             {{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</br>{% include read_time.html %}
+                                            </center>
             <br>
             {% if page.previous %}
             <a href="{{ page.previous.url }}" class="float-left">&larr; Prévio</a> {% endif %}
