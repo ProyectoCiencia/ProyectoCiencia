@@ -1,6 +1,6 @@
 ---
 title: Publicada Biblioteca de Proyecto Ciencia
-author: muammar
+author: Muammar El Khatib
 layout: post
 categories:
   - Noticias

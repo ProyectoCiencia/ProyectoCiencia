@@ -1,6 +1,6 @@
 ---
 title: Errores comunes en Gaussian
-author: muammar
+author: Muammar El Khatib
 layout: post
 categories:
   - Computación

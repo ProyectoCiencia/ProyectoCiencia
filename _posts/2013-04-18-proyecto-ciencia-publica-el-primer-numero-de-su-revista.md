@@ -1,6 +1,6 @@
 ---
 title: Proyecto Ciencia publica el primer número de su revista
-author: muammar
+author: Muammar El Khatib
 layout: post
 categories:
   - Noticias

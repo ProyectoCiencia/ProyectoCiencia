@@ -1,6 +1,6 @@
 ---
 title: En busca de un nombre para la revista de Proyecto Ciencia
-author: muammar
+author: Muammar El Khatib
 layout: post
 categories:
   - Noticias

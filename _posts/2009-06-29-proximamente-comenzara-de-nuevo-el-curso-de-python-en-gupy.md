@@ -1,6 +1,6 @@
 ---
 title: Próximamente comenzará de nuevo el curso de Python en GUPy
-author: muammar
+author: Muammar El Khatib
 layout: post
 categories:
   - Noticias

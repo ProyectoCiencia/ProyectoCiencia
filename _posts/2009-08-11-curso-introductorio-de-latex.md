@@ -1,6 +1,6 @@
 ---
 title: Curso Introductorio de LaTeX
-author: muammar
+author: Muammar El Khatib
 layout: post
 categories:
   - Noticias

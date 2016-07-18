@@ -1,6 +1,6 @@
 ---
 title: Posibles fallas de los servicios brindados por Proyecto Ciencia
-author: muammar
+author: Muammar El Khatib
 layout: post
 jd_tweet_this:
   - yes

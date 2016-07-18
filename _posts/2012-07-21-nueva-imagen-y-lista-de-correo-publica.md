@@ -1,6 +1,6 @@
 ---
 title: Nueva imagen y lista de correo pública
-author: muammar
+author: Muammar El Khatib
 layout: post
 categories:
   - Noticias

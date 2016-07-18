@@ -1,6 +1,6 @@
 ---
 title: Paquete Debian para Molden
-author: muammar
+author: Muammar El Khatib
 excerpt: ' '
 layout: post
 categories:

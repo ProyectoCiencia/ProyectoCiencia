@@ -1,6 +1,6 @@
 ---
 title: Revista de Ciencia
-author: muammar
+author: Muammar El Khatib
 layout: post
 categories:
   - General

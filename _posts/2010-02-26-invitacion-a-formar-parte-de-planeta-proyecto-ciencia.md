@@ -1,6 +1,6 @@
 ---
 title: Invitación para formar parte de Planeta Proyecto Ciencia
-author: muammar
+author: Muammar El Khatib
 layout: post
 jd_tweet_this:
   - yes

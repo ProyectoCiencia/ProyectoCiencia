@@ -1,6 +1,6 @@
 ---
 title: Cómo compilar Gaussian 03 en Debian AMD 64
-author: muammar
+author: Muammar El Khatib
 layout: post
 jd_tweet_this:
   - yes

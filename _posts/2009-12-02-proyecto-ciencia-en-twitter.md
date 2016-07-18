@@ -1,6 +1,6 @@
 ---
 title: Proyecto Ciencia en twitter
-author: muammar
+author: Muammar El Khatib
 layout: post
 jd_tweet_this:
   - yes

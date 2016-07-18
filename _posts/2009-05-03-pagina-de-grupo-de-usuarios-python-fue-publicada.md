@@ -1,6 +1,6 @@
 ---
 title: Página de Grupo de Usuarios Python fue publicada
-author: muammar
+author: Muammar El Khatib
 layout: post
 categories:
   - Noticias
