@@ -1031,8 +1031,8 @@
     float: right;
 }
 ul {
-    list-style: none;
-    padding: 0;
+    list-style: circle;
+    padding-left: 4em;
     margin: 0;
 }
 .ppcbuscar {
